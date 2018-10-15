@@ -7,3 +7,4 @@ Installation Steps.
 3. Install Redis-server(brew install redis)
 4. Run redis server.
 5. Specify postgres and redis credentials in application.properties file.
+6. Run Tomcat Server.
